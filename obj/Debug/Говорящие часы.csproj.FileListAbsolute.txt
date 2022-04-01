@@ -1,0 +1,31 @@
+C:\3-1 IS\Сажин\Говорящие часы\bin\Debug\Говорящие часы.exe.config
+C:\3-1 IS\Сажин\Говорящие часы\bin\Debug\Говорящие часы.exe
+C:\3-1 IS\Сажин\Говорящие часы\bin\Debug\Говорящие часы.pdb
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы.csproj.AssemblyReference.cache
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы.csproj.SuggestedBindingRedirects.cache
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\MainWindow.g.cs
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\App.g.cs
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы_MarkupCompile.cache
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы_MarkupCompile.lref
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\MainWindow.baml
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы.g.resources
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие_часы.Properties.Resources.resources
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы.csproj.GenerateResource.cache
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы.csproj.CoreCompileInputs.cache
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы.exe
+C:\3-1 IS\Сажин\Говорящие часы\obj\Debug\Говорящие часы.pdb
+C:\Users\gorod\Desktop\Новая папка (2)\bin\Debug\Говорящие часы.exe.config
+C:\Users\gorod\Desktop\Новая папка (2)\bin\Debug\Говорящие часы.exe
+C:\Users\gorod\Desktop\Новая папка (2)\bin\Debug\Говорящие часы.pdb
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы.csprojAssemblyReference.cache
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\MainWindow.g.cs
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\App.g.cs
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы_MarkupCompile.cache
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы_MarkupCompile.lref
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\MainWindow.baml
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы.g.resources
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие_часы.Properties.Resources.resources
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы.csproj.GenerateResource.cache
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы.csproj.CoreCompileInputs.cache
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы.exe
+C:\Users\gorod\Desktop\Новая папка (2)\obj\Debug\Говорящие часы.pdb
