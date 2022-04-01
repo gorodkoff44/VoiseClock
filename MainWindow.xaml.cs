@@ -128,7 +128,7 @@ namespace Говорящие_часы
                     break;
                 case 51:
                     secc = "пятьдесят одна";
-                    ok = "ы";
+                    ok = "а";
                     break;
                 case 52:
                     secc = "пятьдесят две";
@@ -142,7 +142,7 @@ namespace Говорящие_часы
                     break;
             }
             //Console.WriteLine(ok + "   " + secc);
-            //synthesizer.Speak("Время " + first + " час "+ ok + " " + min + " минут" + ok);
+            synthesizer.Speak("Время " + first + " час"+ okk + " " + min + " минут" + ok);
 
             //вывод в консоль
             Console.WriteLine("Время: " + first + " час" + okk + " " + min + " минут" + ok);
