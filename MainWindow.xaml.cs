@@ -45,16 +45,30 @@ namespace Говорящие_часы
             string[] words = text.Split(new char[] { ':' }); //разделение данных переменной до :
             string first = words[0]; //часы
             string second = words[1]; //минуты
-            //string second = "01";
-            int sec = int.Parse(second);
-            string secc="";
-            string ok = "";
+            //string second = "01"; //вручную задать минуты
+            int h = int.Parse(first);
+            int min = int.Parse(second);
+            string hr = "";
+            string secc=""; //минуты из чисел в слово
+            string okk = ""; //окончание
+            string ok = ""; //окончание
             SpeechSynthesizer synthesizer = new SpeechSynthesizer();
 
             //поправка озвучки
-            switch (sec)
+            if ((h==0)||(h >= 5) & (h < 21) || (h > 21))
             {
-                case 1:
+                okk = "ов";
+                //Console.WriteLine(okk);
+            }
+            if ((h > 1) & (h < 5)||(h>21))
+            {
+                okk = "а";
+                //Console.WriteLine(okk);
+            }
+
+            switch (min)
+            {
+                case 1 :
                     secc = "одна";
                     ok = "а";
                     break;
@@ -127,10 +141,11 @@ namespace Говорящие_часы
                     ok = "ы";
                     break;
             }
-            synthesizer.Speak("Время " + first + " часов " + sec + " минут" + ok);
+            //Console.WriteLine(ok + "   " + secc);
+            //synthesizer.Speak("Время " + first + " час "+ ok + " " + min + " минут" + ok);
 
             //вывод в консоль
-            //Console.WriteLine("Время: " + first + " часов, " + second + " минут");
+            Console.WriteLine("Время: " + first + " час" + okk + " " + min + " минут" + ok);
         }
         private void Button2_Click(object sender, RoutedEventArgs e)
         {
